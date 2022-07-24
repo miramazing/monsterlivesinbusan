@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/monsterlivesinbusan/static/css/main.3b0b5bc3.chunk.css",
-    "main.js": "/monsterlivesinbusan/static/js/main.137f9451.chunk.js",
-    "main.js.map": "/monsterlivesinbusan/static/js/main.137f9451.chunk.js.map",
+    "main.js": "/monsterlivesinbusan/static/js/main.a71e00d4.chunk.js",
+    "main.js.map": "/monsterlivesinbusan/static/js/main.a71e00d4.chunk.js.map",
     "runtime-main.js": "/monsterlivesinbusan/static/js/runtime-main.e3ce90b3.js",
     "runtime-main.js.map": "/monsterlivesinbusan/static/js/runtime-main.e3ce90b3.js.map",
     "static/js/2.6fcca0e3.chunk.js": "/monsterlivesinbusan/static/js/2.6fcca0e3.chunk.js",
     "static/js/2.6fcca0e3.chunk.js.map": "/monsterlivesinbusan/static/js/2.6fcca0e3.chunk.js.map",
     "index.html": "/monsterlivesinbusan/index.html",
-    "precache-manifest.0bfba908a42fce08c51ae9a5aad51ecd.js": "/monsterlivesinbusan/precache-manifest.0bfba908a42fce08c51ae9a5aad51ecd.js",
+    "precache-manifest.30a617c42fe83025ca34e4e83ffd818e.js": "/monsterlivesinbusan/precache-manifest.30a617c42fe83025ca34e4e83ffd818e.js",
     "service-worker.js": "/monsterlivesinbusan/service-worker.js",
     "static/css/main.3b0b5bc3.chunk.css.map": "/monsterlivesinbusan/static/css/main.3b0b5bc3.chunk.css.map",
     "static/js/2.6fcca0e3.chunk.js.LICENSE.txt": "/monsterlivesinbusan/static/js/2.6fcca0e3.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.e3ce90b3.js",
     "static/js/2.6fcca0e3.chunk.js",
     "static/css/main.3b0b5bc3.chunk.css",
-    "static/js/main.137f9451.chunk.js"
+    "static/js/main.a71e00d4.chunk.js"
   ]
 }
